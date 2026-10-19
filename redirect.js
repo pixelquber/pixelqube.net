@@ -1,0 +1,1 @@
+window.location.replace("https://store.steampowered.com/developer/pixelqube");
